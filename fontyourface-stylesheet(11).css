@@ -1,0 +1,7 @@
+@font-face {
+font-family: 'IBMPlexSerifSemiBold';
+src: url('IBMPlexSerif-SemiBold-webfont.eot');
+src: url('IBMPlexSerif-SemiBold-webfont.eot?#iefix') format('embedded-opentype'), url('IBMPlexSerif-SemiBold-webfont.ttf') format('truetype'), url('IBMPlexSerif-SemiBold-webfont.woff') format('woff'), url('IBMPlexSerif-SemiBold-webfont.svg#IBMPlexSerifSemiBold') format('svg');
+font-weight: normal;
+font-style: normal;
+}

@@ -1,0 +1,7 @@
+@font-face {
+font-family: 'IBMPlexSerifMedium';
+src: url('IBMPlexSerif-Medium-webfont.eot');
+src: url('IBMPlexSerif-Medium-webfont.eot?#iefix') format('embedded-opentype'), url('IBMPlexSerif-Medium-webfont.ttf') format('truetype'), url('IBMPlexSerif-Medium-webfont.woff') format('woff'), url('IBMPlexSerif-Medium-webfont.svg#IBMPlexSerifMedium') format('svg');
+font-weight: normal;
+font-style: normal;
+}
